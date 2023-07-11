@@ -13,7 +13,9 @@ header{
   padding: 20px;
 }
 
-
+main {
+  line-height: 30px;
+}
 /* logo  */
 .logo {
   display: inline-block;
@@ -53,17 +55,25 @@ header{
   padding: 5px;
 }
 
+.new-task{
+  background-color: white;
+  width: 60%;
+  margin: auto;
+  margin-top: 2px;
+  padding: 40px;
+  border-radius: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+}
 
-/* lista  */
-ul{
+.lista{
   list-style: none;
   font-size: 16px;
   margin-top: 10px;
-}
 
-.lista li{
-  margin: 30px 40px;
 }
+/* lista  */
 
 .special{
   width: 15px;
