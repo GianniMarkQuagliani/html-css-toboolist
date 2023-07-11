@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 
 body{
@@ -36,7 +35,7 @@ body{
 .container{
   background-color: white;
   width: 700px;
-  height: 630px;
+  height: 700px;
   border-radius: 5px;
   margin: auto;
   margin-top: 50px;
