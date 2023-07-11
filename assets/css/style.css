@@ -5,29 +5,22 @@
 }
 
 body{
-  background-color: #f6f8f9;
+  background-color: #F5F8F9;
 }
 
-/* header  */
-/* logo  */
-#logo{
-  vertical-align: middle;
-  padding-left: 20px;
-}
-
-#logo-txt{
-  display: inline;
-  vertical-align: middle;
-  font-weight: bold;
-  font-size: 40px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-}
-
-.div-header{
-  height: 70px;
+header{
   background-color: white;
-  padding-top: 10px;
-  padding-bottom: 30px;
+  padding: 20px;
+}
+/* logo  */
+.logo{
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700px;
+  font-size: 40px;
+  vertical-align: middle;
+  width: 80px;
+  margin-left: 20px;
 }
 
 
