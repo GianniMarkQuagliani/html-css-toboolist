@@ -34,7 +34,7 @@ body{
 
 /* main  */
 .container{
-  background-color: red;
+  background-color: white;
   width: 700px;
   height: 630px;
   border-radius: 5px;
@@ -49,16 +49,31 @@ body{
 
 /* pulsanti  */
 .pulsanti{
-  padding: 20px 40px;
+  padding: 25px 45px;
 }
 
 .pulsante {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
   font-size: 12px;
   border-radius: 5px;
-  border: 1px solid #ddd;
-  padding: 5px;
+  padding: 5px 10px;
 }
 
+.task{
+  background-color: #0086df;
+  color: white;
+  border: 1px solid #0086df;
+}
+
+.section{
+  background-color:white;
+  border: 1px solid grey;
+  color: grey;
+}
+
+
+/* lista  */
 ul{
   list-style: none;
 }
