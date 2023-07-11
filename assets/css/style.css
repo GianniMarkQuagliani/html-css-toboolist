@@ -26,7 +26,7 @@ body{
 
 .div-header{
   height: 70px;
-  background-color: #FFFFFF;
+  background-color: white;
   padding-top: 10px;
   padding-bottom: 30px;
 }
@@ -78,5 +78,61 @@ ul{
   list-style: none;
 }
 
+.lista li{
+  margin: 30px 40px;
+}
+
+.special{
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  display: inline-block;
+  border-radius: 50%;
+  color: red;
+  line-height: 15px;
+  font-size: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.check2{
+  border: 1px solid red;
+  color: red; 
+}
+
+.check{
+  border: 1px solid #2cc6ab;
+  color: #2cc6ab; 
+}
 
 
+.special1{
+  color: white;
+  font-size: 10px;
+  border-radius: 10px;
+  padding: 6px;
+}
+
+.azzurro{
+  background-color: #0086df;
+}
+
+.viola{
+  background-color: #BA55D3;
+}
+
+.verde{
+  background-color: #3CB371;
+}
+
+.arancione{
+  background-color: #F4A460;
+}
+
+.rosa{
+  background-color: palevioletred;
+}
+
+.verde2{
+  background-color: #9ACD32;
+}
