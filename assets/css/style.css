@@ -9,12 +9,13 @@ body{
   background-color: #f6f8f9;
 }
 
+/* header  */
+/* logo  */
 #logo{
   vertical-align: middle;
   padding-left: 20px;
 }
 
-/* header  */
 #logo-txt{
   display: inline;
   vertical-align: middle;
@@ -24,10 +25,38 @@ body{
 }
 
 .div-header{
+  height: 70px;
   background-color: #FFFFFF;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 }
+
+
+/* main  */
+.container{
+  background-color: red;
+  width: 700px;
+  height: 630px;
+  border-radius: 5px;
+  margin: auto;
+}
+/* riga  */
+#riga{
+  margin-top: 10px;
+  border-top: 2px solid green;
+}
+
+/* pulsanti  */
+.pulsanti{
+  padding: 20px 40px;
+}
+
+.pulsante {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
 
 
 
