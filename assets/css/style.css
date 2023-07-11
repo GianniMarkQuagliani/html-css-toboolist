@@ -12,14 +12,16 @@ header{
   background-color: white;
   padding: 20px;
 }
+
+
 /* logo  */
-.logo{
+.logo {
   display: inline-block;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 700px;
-  font-size: 40px;
-  vertical-align: middle;
   width: 80px;
+  font-size: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  vertical-align: middle;
   margin-left: 20px;
 }
 
@@ -32,6 +34,7 @@ header{
   border-radius: 5px;
   margin: auto;
   margin-top: 50px;
+  margin-bottom: 10px;
 }
 /* riga  */
 #riga{
@@ -68,6 +71,8 @@ header{
 /* lista  */
 ul{
   list-style: none;
+  font-size: 16px;
+  margin-top: 10px;
 }
 
 .lista li{
