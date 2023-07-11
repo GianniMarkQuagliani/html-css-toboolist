@@ -26,45 +26,31 @@ header{
 }
 
 
-/* main  */
-.container{
+/* bottoni  */
+#bottoni{
   background-color: white;
-  width: 700px;
-  height: 700px;
-  border-radius: 5px;
+  width: 60%;
   margin: auto;
-  margin-top: 50px;
-  margin-bottom: 10px;
-}
-/* riga  */
-#riga{
-  margin-top: 10px;
-  border-top: 2px solid green;
-}
-
-/* pulsanti  */
-.pulsanti{
-  padding: 25px 45px;
-}
-
-.pulsante {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-weight: bold;
-  font-size: 12px;
+  margin-top: 40px;
   border-radius: 5px;
-  padding: 5px 10px;
+  padding: 10px;
 }
 
 .task{
-  background-color: #0086df;
+  background-color: #46adf1;
   color: white;
-  border: 1px solid #0086df;
+  border-radius: 5px;
+  border: 0;
+  margin-left: 5px;
+  padding: 5px;
 }
 
 .section{
-  background-color:white;
-  border: 1px solid grey;
-  color: grey;
+  background-color: white;
+  color: #dbdfe1;
+  border-radius: 5px;
+  border: 2px solid #dbdfe1;
+  padding: 5px;
 }
 
 
