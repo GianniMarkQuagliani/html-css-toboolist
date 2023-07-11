@@ -39,6 +39,7 @@ body{
   height: 630px;
   border-radius: 5px;
   margin: auto;
+  margin-top: 50px;
 }
 /* riga  */
 #riga{
@@ -52,6 +53,7 @@ body{
 }
 
 .pulsante {
+  font-size: 12px;
   border-radius: 5px;
   border: 1px solid #ddd;
   padding: 5px;
